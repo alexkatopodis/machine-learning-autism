@@ -1,0 +1,416 @@
+,A1,A2,A3,A4,A5,A6,A7,A8,A9,A10_Autism_Spectrum_Quotient,Age_Years,Sex,Ethnicity,Jaundice,Family_mem_with_ASD,Who_completed_the_test,ASD_traits
+0,1,1,1,1,0,0,1,1,0,0,26.0,F,White-European,No,No,Self,No
+1,1,1,0,1,1,0,1,1,1,1,27.0,M,Latino,Yes,Yes,Parent,Yes
+2,1,1,0,1,0,0,1,1,0,1,35.0,F,White-European,No,Yes,Self,No
+3,1,0,0,0,0,0,0,1,0,0,40.0,F,Asian,No,No,Family Member,No
+4,1,1,1,1,1,0,1,1,1,1,36.0,M,Others,Yes,No,Self,Yes
+5,1,1,1,1,0,0,0,0,1,0,64.0,M,White-European,No,No,Parent,No
+6,1,1,0,0,1,0,0,1,1,1,29.0,M,White-European,No,No,Self,No
+7,1,1,1,1,1,1,1,1,1,1,33.0,M,White-European,No,No,Relative,Yes
+8,1,0,0,0,0,0,1,1,1,1,31.0,M,Middle Eastern,No,No,Self,No
+9,0,0,0,0,0,0,0,1,0,1,30.0,M,White-European,No,No,Self,No
+10,0,0,1,0,1,1,0,0,0,0,35.0,F,Middle Eastern,No,Yes,Self,No
+11,0,0,0,0,0,0,1,1,0,1,34.0,M,Asian,Yes,No,Family Member,No
+12,0,1,1,1,0,0,0,0,0,0,38.0,M,Asian,No,No,Family Member,No
+13,0,0,0,0,0,0,0,0,0,0,27.0,F,Black,No,No,Self,No
+14,0,0,0,1,0,0,1,1,1,1,27.0,M,Middle Eastern,No,No,Self,No
+15,0,0,0,0,0,0,0,1,0,1,42.0,M,Middle Eastern,Yes,No,Relative,No
+16,1,1,1,1,0,0,0,1,0,0,43.0,M,Asian,No,No,Family Member,No
+17,0,0,0,0,0,0,0,1,0,0,40.0,M,Pacifica,Yes,Yes,Self,No
+18,0,0,0,0,0,0,0,1,0,0,40.0,M,Middle Eastern,Yes,Yes,Parent,No
+19,0,0,0,0,0,0,0,1,0,0,48.0,M,Black,No,No,Self,No
+20,0,1,1,0,0,0,0,0,1,1,31.0,M,Middle Eastern,No,No,Self,No
+21,1,0,0,1,1,1,1,1,0,1,37.0,F,White-European,No,Yes,Self,Yes
+22,1,1,0,0,0,0,1,0,0,1,55.0,F,Others,No,No,Self,No
+23,0,0,1,0,0,0,0,0,0,0,55.0,M,White-European,No,No,Self,No
+24,0,1,1,0,1,0,0,1,1,1,50.0,M,Middle Eastern,No,No,Self,No
+25,1,0,1,1,1,1,0,0,1,0,34.0,F,White-European,No,No,Self,No
+26,1,0,0,1,1,1,1,0,1,1,53.0,F,White-European,No,No,Self,Yes
+27,1,0,1,1,0,1,1,1,1,1,35.0,F,White-European,No,Yes,Self,Yes
+28,0,0,0,0,1,1,0,0,0,0,28.0,F,Asian,No,No,Self,No
+29,0,0,1,1,0,0,0,0,0,1,34.0,F,Middle Eastern,No,Yes,Self,No
+30,0,1,1,1,0,0,0,0,0,1,36.0,F,White-European,Yes,Yes,Self,No
+31,1,1,1,1,1,1,0,1,0,1,27.0,F,White-European,No,No,Self,Yes
+32,1,0,1,1,1,1,0,1,1,0,53.0,F,White-European,No,No,Relative,Yes
+33,0,1,1,0,0,1,0,0,0,0,55.0,M,White-European,No,No,Relative,No
+34,1,1,0,0,0,1,1,1,0,1,30.0,F,Asian,No,No,Self,No
+35,1,1,1,1,1,1,1,1,1,1,35.0,F,Black,No,No,Parent,Yes
+36,1,0,0,0,0,0,0,0,0,0,383.0,F,Pacifica,No,No,Self,No
+37,1,1,1,1,1,1,1,1,1,1,47.0,M,White-European,No,No,Self,Yes
+38,1,1,1,1,1,1,0,1,1,1,30.0,F,Asian,No,No,Self,Yes
+39,1,0,1,1,1,1,0,1,1,1,28.0,F,White-European,No,No,Self,Yes
+40,1,1,1,1,1,1,0,1,1,1,43.0,F,White-European,No,No,Self,Yes
+41,1,0,0,0,1,0,0,1,0,0,32.0,F,South Asian,No,Yes,Self,No
+42,1,1,1,1,0,0,0,1,0,0,44.0,F,White-European,No,No,Self,No
+43,1,1,1,1,1,1,1,1,0,1,29.0,F,White-European,No,No,Self,Yes
+44,0,1,0,0,0,0,0,1,0,0,27.0,M,Middle Eastern,No,No,Parent,No
+45,1,0,0,0,1,0,1,0,0,1,35.0,M,Middle Eastern,No,No,Self,No
+46,0,0,0,0,1,0,0,0,0,0,42.0,M,Black,No,No,Self,No
+47,1,1,0,0,0,0,1,1,0,1,29.0,F,South Asian,No,No,Self,No
+48,0,0,1,1,0,0,0,1,0,0,58.0,M,Asian,No,No,Self,No
+49,0,0,1,1,1,0,0,1,1,1,37.0,F,White-European,No,Yes,Self,No
+50,1,1,0,1,1,1,1,1,1,0,33.0,F,Black,No,Yes,Self,Yes
+51,1,1,0,0,0,0,0,0,0,0,45.0,F,Asian,Yes,No,Family Member,No
+52,0,0,1,1,0,0,1,1,0,1,32.0,M,Asian,Yes,Yes,Family Member,No
+53,1,0,0,0,0,0,1,0,0,1,30.0,M,Asian,No,No,Family Member,No
+54,1,1,1,1,1,1,1,1,1,1,33.0,F,White-European,No,Yes,Self,Yes
+55,0,0,1,0,1,0,0,1,0,1,42.0,F,Middle Eastern,No,No,Self,No
+56,1,0,0,0,0,0,0,1,0,1,27.0,F,Middle Eastern,No,No,Self,No
+57,1,0,0,1,1,1,1,1,1,1,35.0,F,Middle Eastern,No,Yes,Parent,Yes
+58,1,0,0,0,0,0,0,0,0,0,37.0,M,White-European,No,No,Self,No
+59,1,0,0,0,0,0,0,1,1,1,30.0,F,White-European,No,Yes,Self,No
+60,1,1,1,1,1,1,0,1,1,1,29.0,F,White-European,No,No,Self,Yes
+61,1,1,1,1,1,0,0,1,1,1,42.0,F,White-European,No,Yes,Self,Yes
+62,1,1,0,0,0,0,0,1,0,1,37.0,F,White-European,No,No,Self,No
+63,1,0,0,0,1,0,1,1,0,0,28.0,F,White-European,No,No,Self,No
+64,1,1,0,0,0,0,0,1,0,0,26.0,F,Pacifica,No,No,Self,No
+65,0,1,1,0,0,0,0,1,0,0,26.0,F,South Asian,No,No,Self,No
+66,1,0,0,0,0,0,0,1,0,0,39.0,F,Asian,No,No,Self,No
+67,1,0,0,0,0,0,0,0,1,1,26.0,M,Asian,No,No,Self,No
+68,1,1,0,0,1,0,1,1,0,0,26.0,M,Asian,No,No,Self,No
+69,0,0,0,0,0,0,0,0,0,0,25.0,M,Asian,No,No,Self,No
+70,0,0,1,0,1,1,1,1,0,1,26.0,M,South Asian,No,No,Self,No
+71,1,1,0,1,1,0,1,1,0,1,30.0,F,White-European,No,No,Self,Yes
+72,1,0,1,1,1,1,1,1,1,1,25.0,F,White-European,No,Yes,Self,Yes
+73,1,0,0,0,1,0,0,0,0,1,31.0,M,Asian,No,No,Parent,No
+74,0,1,0,0,0,0,0,1,1,1,27.0,M,Asian,No,No,Self,No
+75,1,1,0,1,1,1,1,1,0,1,29.0,F,Middle Eastern,No,No,Self,Yes
+76,1,0,1,1,1,1,0,1,1,0,38.0,F,White-European,No,No,Parent,Yes
+77,1,1,1,0,1,0,1,1,0,0,27.0,M,White-European,No,No,Self,No
+78,1,1,1,1,1,1,0,1,1,1,27.0,F,White-European,No,No,Self,Yes
+79,1,1,1,1,1,1,0,0,1,0,42.0,M,White-European,No,No,Self,Yes
+80,1,0,0,1,1,1,1,1,0,1,30.0,M,Asian,Yes,No,Self,Yes
+81,1,0,1,1,1,1,1,1,1,1,28.0,F,White-European,No,Yes,Self,Yes
+82,1,1,0,0,1,1,1,1,0,1,26.0,F,White-European,No,No,Self,Yes
+83,0,0,0,0,0,0,0,0,0,0,26.0,F,White-European,No,No,Self,No
+84,1,0,0,1,1,1,0,1,0,1,31.0,M,Middle Eastern,No,Yes,Self,No
+85,1,0,1,1,0,0,1,0,0,1,40.0,F,White-European,No,No,Self,No
+86,1,0,0,0,1,0,0,0,1,1,39.0,F,White-European,No,Yes,Relative,No
+87,1,0,1,1,0,0,0,1,1,1,27.0,M,Asian,No,No,Self,No
+88,0,0,0,0,1,0,0,0,0,1,25.0,M,Asian,No,No,Self,No
+89,0,1,0,0,0,0,0,0,0,1,40.0,F,Asian,No,No,Self,No
+90,1,0,0,0,0,0,0,1,0,0,29.0,M,South Asian,No,No,Self,No
+91,1,0,1,0,0,0,0,1,0,0,25.0,M,Asian,No,No,Self,No
+92,1,0,0,1,1,0,0,1,0,0,27.0,M,Asian,No,No,Self,No
+93,1,0,0,1,1,1,1,1,1,1,28.0,M,White-European,No,No,Parent,Yes
+94,1,1,0,0,1,1,1,1,0,1,37.0,F,Others,No,No,Self,Yes
+95,1,1,1,1,1,0,1,1,1,0,35.0,M,White-European,Yes,Yes,Self,Yes
+96,0,0,0,0,1,0,0,1,0,0,26.0,M,Asian,No,No,Self,No
+97,1,1,0,0,1,0,0,0,0,1,32.0,F,South Asian,No,No,Self,No
+98,0,0,1,0,1,0,1,0,1,1,30.0,M,Asian,No,No,Self,No
+99,1,0,0,0,1,0,1,0,0,1,31.0,M,Asian,No,No,Self,No
+100,0,0,0,0,0,0,1,1,0,1,28.0,F,Asian,No,No,Self,No
+101,1,0,0,0,0,1,0,1,0,1,29.0,F,Asian,No,No,Self,No
+102,0,1,0,0,1,0,0,1,0,1,29.0,F,South Asian,No,No,Self,No
+103,1,0,0,1,0,0,0,0,1,1,29.0,F,Asian,No,No,Self,No
+104,1,0,0,0,0,0,1,1,0,0,31.0,M,Asian,No,No,Self,No
+105,0,0,0,0,0,0,0,0,0,0,36.0,M,Asian,No,No,Parent,No
+106,0,1,0,0,0,0,0,1,0,0,32.0,F,South Asian,No,No,Self,No
+107,0,0,0,0,0,0,0,1,0,0,34.0,F,South Asian,No,No,Self,No
+108,1,0,0,0,1,0,1,1,0,1,42.0,M,Asian,No,No,Self,No
+109,0,0,1,0,0,0,0,1,1,1,26.0,F,Others,No,No,Self,No
+110,1,0,0,0,1,0,1,1,0,0,27.0,F,Asian,No,No,Self,No
+111,0,0,1,1,1,0,0,1,1,1,36.0,F,Latino,No,Yes,Self,No
+112,1,1,1,1,1,0,0,1,1,1,36.0,F,Latino,No,Yes,Self,Yes
+113,1,0,1,1,0,0,1,1,0,1,55.0,M,Hispanic,No,No,Self,No
+114,1,0,0,0,0,0,0,1,0,0,42.0,F,Middle Eastern,No,No,Parent,No
+115,1,0,0,1,0,0,0,1,0,0,54.0,M,White-European,No,No,Self,No
+116,1,1,0,0,0,0,1,1,1,1,43.0,F,Black,No,No,Self,No
+117,1,1,1,1,1,1,0,1,1,1,43.0,F,Black,No,No,Self,Yes
+118,0,0,1,1,1,0,0,1,1,1,29.0,M,Middle Eastern,No,No,Self,No
+119,1,0,1,0,1,0,0,1,0,1,29.0,M,Middle Eastern,No,No,Self,No
+120,1,0,1,0,1,0,1,0,0,0,37.0,M,White-European,No,No,Self,No
+121,1,0,0,0,1,0,1,0,0,1,39.0,F,White-European,No,No,Self,No
+122,0,1,0,1,1,1,0,1,0,1,31.0,M,White-European,No,No,Others,No
+123,0,0,1,1,1,0,0,0,0,1,34.0,M,Asian,No,No,Self,No
+124,1,0,1,1,1,1,1,0,1,0,28.0,M,South Asian,No,No,Self,Yes
+125,1,0,0,0,0,0,1,1,0,1,38.0,M,Others,No,Yes,Self,No
+126,1,0,0,0,0,0,1,1,0,1,28.0,F,White-European,No,No,Self,No
+127,1,1,0,1,1,1,0,1,1,1,53.0,F,White-European,No,Yes,Self,Yes
+128,1,1,1,0,1,0,1,0,0,0,26.0,M,White-European,No,No,Self,No
+129,1,1,1,1,1,1,0,1,1,1,37.0,M,White-European,No,No,Self,Yes
+130,1,1,0,1,0,0,0,1,0,1,42.0,M,Latino,Yes,Yes,Parent,No
+131,1,0,0,0,0,0,0,1,0,1,43.0,M,Hispanic,No,No,Self,No
+132,1,0,0,0,0,0,0,1,0,0,32.0,F,Asian,No,No,Self,No
+133,0,1,0,1,0,0,0,1,0,0,31.0,M,White-European,No,Yes,Self,No
+134,1,0,1,1,1,1,1,1,1,1,53.0,F,White-European,No,No,Self,Yes
+135,1,1,1,1,1,1,1,1,1,1,28.0,M,White-European,No,No,Self,Yes
+136,1,0,1,1,1,1,1,1,1,1,38.0,M,White-European,No,No,Self,Yes
+137,1,1,1,0,1,1,0,1,1,0,31.0,M,White-European,No,No,Self,Yes
+138,1,1,1,1,0,0,0,0,0,0,31.0,F,Pacifica,No,Yes,Self,No
+139,1,1,0,1,1,0,0,0,1,1,25.0,F,White-European,No,No,Self,No
+140,1,1,0,1,1,0,0,1,1,1,25.0,F,White-European,No,No,Self,Yes
+141,1,1,1,1,1,1,1,0,1,1,60.0,F,White-European,No,Yes,Relative,Yes
+142,1,0,1,1,0,0,0,0,0,0,39.0,M,White-European,No,Yes,Self,No
+143,1,1,1,1,1,1,1,1,1,1,53.0,M,White-European,No,No,Self,Yes
+144,1,1,1,0,1,0,0,1,1,1,25.0,F,White-European,No,No,Self,Yes
+145,1,1,1,1,0,0,1,1,0,0,50.0,M,White-European,No,No,Self,No
+146,1,0,0,1,1,1,1,1,1,1,28.0,F,White-European,No,No,Self,Yes
+147,1,0,1,1,1,1,1,1,1,1,37.0,F,White-European,No,Yes,Self,Yes
+148,0,0,0,1,0,1,0,1,1,1,30.0,M,Asian,No,Yes,Self,No
+149,1,1,0,0,0,1,1,1,0,1,32.0,F,White-European,No,No,Self,No
+150,1,0,1,1,0,0,0,0,0,1,34.0,F,White-European,No,No,Self,No
+151,1,1,1,1,0,0,0,0,0,1,42.0,M,White-European,No,No,Self,No
+152,1,0,0,0,0,0,1,1,0,1,37.0,F,Asian,Yes,No,Family Member,No
+153,1,1,0,0,0,0,0,1,0,1,39.0,M,White-European,No,Yes,Parent,No
+154,1,0,0,1,0,0,0,0,0,0,54.0,F,White-European,No,Yes,Parent,No
+155,1,1,0,0,0,0,0,1,0,0,42.0,M,White-European,No,No,Self,No
+156,0,0,1,0,0,0,0,0,0,0,27.0,F,Asian,No,No,Family Member,No
+157,0,1,0,1,0,0,0,1,0,1,28.0,F,White-European,No,No,Self,No
+158,0,1,0,0,0,0,0,0,0,0,28.0,M,White-European,No,No,Self,No
+159,1,1,1,1,1,1,1,1,1,1,31.0,F,Asian,No,No,Self,Yes
+160,1,0,0,0,1,1,1,1,0,1,25.0,M,Asian,No,No,Self,No
+161,0,0,1,0,1,1,0,0,1,1,34.0,M,Others,No,No,Self,No
+162,1,0,1,0,1,0,1,1,0,1,30.0,M,Asian,No,No,Self,No
+163,1,0,0,0,0,0,1,1,0,1,29.0,F,Asian,No,No,Self,No
+164,0,0,0,0,0,0,0,1,0,1,26.0,M,Asian,No,No,Self,No
+165,1,0,0,0,0,0,1,1,0,0,41.0,M,Asian,No,No,Self,No
+166,0,0,0,1,0,0,0,1,0,0,35.0,M,Asian,No,No,Self,No
+167,1,0,1,0,0,0,1,0,0,0,36.0,M,White-European,No,No,Self,No
+168,1,1,0,0,1,0,0,1,0,0,33.0,M,Turkish,No,No,Self,No
+169,0,1,1,0,1,0,0,1,0,0,25.0,M,Asian,No,No,Family Member,No
+170,1,0,0,0,1,1,0,1,0,1,25.0,M,Asian,No,No,Self,No
+171,1,0,0,0,0,0,1,1,1,1,25.0,M,Asian,No,No,Self,No
+172,1,0,1,0,1,0,0,1,0,1,27.0,F,South Asian,No,No,Self,No
+173,1,0,0,0,0,0,1,1,0,0,26.0,M,Asian,No,No,Self,No
+174,0,0,0,0,0,0,0,0,0,0,26.0,M,Others,No,No,Self,No
+175,1,1,1,0,1,0,1,1,0,1,30.0,M,Asian,No,No,Self,Yes
+176,1,0,0,1,0,0,0,0,1,0,25.0,M,Asian,No,No,Self,No
+177,1,0,1,1,1,0,0,1,0,0,34.0,F,White-European,No,No,Self,No
+178,1,1,1,1,0,0,0,1,1,1,33.0,F,Black,No,Yes,Parent,Yes
+179,1,1,1,1,1,1,1,1,1,1,46.0,M,White-European,No,No,Self,Yes
+180,1,1,1,0,0,0,0,1,0,0,45.0,F,White-European,No,Yes,Self,No
+181,0,1,1,1,0,0,0,0,1,0,26.0,M,Asian,No,No,Others,No
+182,1,0,0,0,1,0,0,0,1,0,30.0,M,Asian,No,No,Family Member,No
+183,1,1,0,0,0,0,0,0,0,0,32.0,F,Asian,No,Yes,Family Member,No
+184,1,0,1,1,1,1,1,1,1,1,38.0,F,White-European,No,No,Self,Yes
+185,0,1,1,0,1,0,0,0,0,0,26.0,M,Hispanic,Yes,No,Self,No
+186,1,0,0,0,0,0,0,0,0,0,29.0,F,Hispanic,No,Yes,Self,No
+187,1,1,1,1,1,0,0,1,1,1,33.0,M,White-European,No,No,Self,Yes
+188,0,1,1,0,1,1,1,0,1,1,32.0,F,Black,No,No,Parent,Yes
+189,1,1,1,1,1,1,1,1,1,1,44.0,F,White-European,No,No,Self,Yes
+190,0,1,0,0,0,0,1,0,0,1,47.0,F,White-European,Yes,No,Self,No
+191,0,0,0,1,1,1,1,0,1,1,32.0,F,Asian,No,No,Family Member,No
+192,0,0,0,0,0,0,0,0,0,0,40.0,M,White-European,No,No,Self,No
+193,1,0,0,1,1,0,0,1,0,1,40.0,M,White-European,No,No,Self,No
+194,0,0,0,0,0,0,0,0,0,0,44.0,F,White-European,No,No,Self,No
+195,1,1,1,0,1,1,1,0,1,1,56.0,M,White-European,Yes,No,Self,Yes
+196,1,1,0,1,1,0,0,1,1,1,32.0,F,Black,No,No,Self,Yes
+197,0,1,1,1,0,0,0,1,0,1,27.0,M,White-European,No,Yes,Self,No
+198,1,0,0,0,1,0,1,0,0,1,28.0,F,White-European,No,Yes,Self,No
+199,0,0,0,0,0,0,0,0,0,0,40.0,F,Middle Eastern,No,No,Parent,No
+200,1,0,1,1,1,1,0,0,1,1,45.0,F,White-European,No,No,Self,Yes
+201,1,1,1,1,0,1,0,1,1,1,55.0,M,White-European,No,Yes,Others,Yes
+202,1,0,0,1,0,0,1,1,0,1,27.0,F,White-European,Yes,No,Self,No
+203,1,0,0,1,0,0,0,1,0,0,29.0,M,White-European,No,No,Self,No
+204,1,1,1,1,1,1,1,1,1,1,33.0,F,White-European,Yes,No,Self,Yes
+205,0,0,1,1,1,1,1,1,0,0,48.0,F,White-European,No,No,Self,No
+206,0,0,0,0,0,0,0,1,1,0,37.0,F,Others,No,No,Self,No
+207,1,1,1,1,1,0,0,0,1,0,30.0,M,Asian,No,No,Self,No
+208,1,1,0,1,0,0,0,0,0,1,37.0,F,White-European,No,No,Self,No
+209,1,0,0,1,1,0,1,1,1,1,28.0,F,Asian,No,No,Family Member,Yes
+210,1,1,1,1,1,1,0,0,1,1,25.0,F,Others,No,No,Self,Yes
+211,1,1,1,1,1,1,0,1,0,0,58.0,F,Middle Eastern,No,No,Self,Yes
+212,1,0,1,0,0,0,0,0,0,0,36.0,F,White-European,No,No,Self,No
+213,0,0,1,1,1,0,0,1,0,0,36.0,M,White-European,Yes,No,Self,No
+214,1,0,0,0,0,0,0,0,0,1,37.0,F,Asian,No,No,Family Member,No
+215,1,0,0,1,1,1,1,0,1,1,55.0,M,White-European,No,No,Self,Yes
+216,1,0,0,0,0,1,1,0,1,1,32.0,F,Asian,No,No,Parent,No
+217,1,1,0,1,0,0,1,1,0,0,50.0,M,White-European,Yes,No,Self,No
+218,1,1,1,1,0,0,1,1,0,0,40.0,M,White-European,No,No,Self,No
+219,1,0,0,1,1,1,0,0,0,0,47.0,M,Middle Eastern,No,No,Self,No
+220,1,0,1,0,0,0,1,0,0,0,26.0,M,Asian,No,Yes,Family Member,No
+221,1,0,0,0,0,1,0,0,1,0,25.0,M,Middle Eastern,Yes,Yes,Relative,No
+222,0,1,1,0,0,0,0,1,0,0,26.0,M,Middle Eastern,No,No,Self,No
+223,1,0,0,0,0,0,0,1,0,1,26.0,F,Asian,No,No,Family Member,No
+224,1,0,0,1,0,0,1,0,0,1,28.0,F,Asian,No,No,Family Member,No
+225,1,0,0,0,0,0,1,1,0,1,31.0,M,Middle Eastern,Yes,No,Self,No
+226,1,0,1,0,1,0,1,1,0,1,26.0,F,Middle Eastern,No,No,Self,No
+227,0,0,0,0,0,0,1,0,0,0,27.0,M,Middle Eastern,No,No,Self,No
+228,0,1,0,1,0,0,0,0,0,0,29.0,F,Asian,No,No,Family Member,No
+229,1,1,1,1,1,1,1,0,1,1,32.0,F,Black,No,No,Parent,Yes
+230,1,1,1,1,1,1,1,1,1,1,61.0,M,White-European,Yes,Yes,Self,Yes
+231,1,1,1,1,1,1,0,1,1,0,35.0,F,White-European,No,No,Self,Yes
+232,1,0,0,0,0,1,0,0,0,1,34.0,F,White-European,No,No,Self,No
+233,1,1,0,0,1,1,0,1,0,1,36.0,F,Others,No,No,Parent,No
+234,0,1,1,1,1,0,1,0,0,1,33.0,M,White-European,No,Yes,Relative,No
+235,0,1,1,1,1,1,0,1,0,1,35.0,F,White-European,No,Yes,Self,Yes
+236,1,0,0,0,0,0,0,1,0,0,29.0,M,White-European,No,No,Health Care Professional,No
+237,1,1,1,1,1,1,1,0,1,1,59.0,M,White-European,No,No,Self,Yes
+238,1,1,1,1,1,0,0,1,1,0,36.0,F,White-European,No,No,Self,Yes
+239,1,0,0,0,0,0,0,1,0,1,52.0,M,White-European,Yes,No,Self,No
+240,0,0,0,0,0,0,1,0,0,0,30.0,M,Asian,No,No,Self,No
+241,1,1,1,1,1,0,0,1,0,0,27.0,M,Latino,No,No,Self,No
+242,0,0,0,1,0,0,0,0,0,0,52.0,F,White-European,No,No,Self,No
+243,0,0,0,0,0,0,0,1,0,0,45.0,F,Asian,No,No,Self,No
+244,0,1,1,1,1,1,0,0,1,0,25.0,F,Others,No,No,Health Care Professional,No
+245,0,0,0,1,0,0,1,0,0,1,29.0,F,White-European,No,No,Self,No
+246,1,1,0,1,1,1,1,1,0,1,29.0,F,White-European,Yes,No,Self,Yes
+247,1,1,1,1,1,1,1,1,1,1,27.0,F,Asian,No,No,Self,Yes
+248,1,1,1,1,1,0,1,1,0,0,25.0,M,Latino,No,No,Self,Yes
+249,1,0,0,0,0,0,0,1,0,1,29.0,M,Asian,No,No,Self,No
+250,1,0,0,1,1,0,1,0,0,0,27.0,F,Asian,No,No,Self,No
+251,1,0,0,0,0,1,0,1,0,0,27.0,F,Asian,No,No,Self,No
+252,0,0,0,0,0,0,0,0,0,0,43.0,F,South Asian,No,No,Parent,No
+253,1,0,0,0,0,0,0,1,0,0,26.0,F,Asian,No,No,Self,No
+254,1,0,0,0,1,0,0,1,0,1,30.0,F,Asian,No,No,Self,No
+255,1,0,0,0,1,0,1,1,0,0,29.0,F,Asian,No,No,Self,No
+256,0,0,0,0,0,0,0,1,0,1,37.0,M,White-European,No,No,Parent,No
+257,0,0,0,0,0,0,1,0,0,1,28.0,F,White-European,No,No,Self,No
+258,1,1,1,1,0,0,1,1,0,0,25.0,M,South Asian,No,No,Self,No
+259,1,0,1,1,0,0,1,1,0,0,25.0,M,Others,No,No,Self,No
+260,1,1,1,1,1,1,1,0,1,1,43.0,M,White-European,No,No,Self,Yes
+261,1,1,0,1,1,1,0,0,1,1,30.0,F,White-European,No,No,Self,Yes
+262,1,1,1,1,0,0,1,1,1,0,30.0,M,Others,No,No,Self,Yes
+263,0,0,0,0,0,0,0,0,0,0,31.0,F,White-European,No,No,Self,No
+264,1,0,0,0,1,0,1,1,0,1,33.0,M,Latino,No,No,Self,No
+265,1,1,1,1,1,1,1,1,1,1,33.0,M,Latino,No,No,Self,Yes
+266,1,1,1,1,0,0,1,0,0,1,26.0,M,White-European,No,No,Self,No
+267,1,0,1,1,0,0,0,0,0,0,61.0,F,White-European,No,No,Self,No
+268,0,0,0,1,0,0,0,1,0,1,46.0,M,Others,No,No,Self,No
+269,0,1,1,1,1,1,1,0,1,1,33.0,M,Asian,No,No,Self,Yes
+270,1,1,1,1,1,0,1,1,0,1,38.0,F,Black,No,No,Self,Yes
+271,1,1,0,0,0,0,0,1,0,0,44.0,M,Black,No,No,Parent,No
+272,0,1,1,1,1,0,0,0,1,0,48.0,F,Black,No,Yes,Parent,No
+273,1,1,0,1,1,1,0,1,1,1,42.0,F,Latino,Yes,No,Self,Yes
+274,0,1,0,0,1,0,1,1,0,0,37.0,M,White-European,No,No,Self,No
+275,1,0,1,0,1,0,1,1,0,1,41.0,M,Asian,Yes,Yes,Family Member,No
+276,1,0,1,0,0,0,1,0,0,1,41.0,M,Asian,No,No,Self,No
+277,0,1,1,0,1,0,0,1,0,0,27.0,M,White-European,No,No,Self,No
+278,1,1,1,1,1,1,1,1,1,1,46.0,F,White-European,Yes,Yes,Self,Yes
+279,0,1,0,0,0,0,0,0,0,1,40.0,F,White-European,Yes,No,Self,No
+280,1,1,1,1,1,1,1,0,1,1,42.0,M,White-European,No,No,Self,Yes
+281,1,0,1,1,0,0,0,0,0,0,44.0,F,White-European,No,No,Self,No
+282,1,1,1,1,1,0,1,1,1,1,30.0,F,White-European,No,No,Self,Yes
+283,1,1,1,1,1,1,0,1,1,1,42.0,M,White-European,No,No,Self,Yes
+284,1,1,0,1,0,0,1,0,0,0,35.0,F,White-European,No,Yes,Parent,No
+285,1,0,1,1,1,0,1,0,1,1,40.0,M,Black,No,No,Self,Yes
+286,0,1,0,0,0,0,0,0,1,1,50.0,F,Asian,No,No,Family Member,No
+287,0,0,1,1,0,0,0,0,0,1,38.0,M,Middle Eastern,No,No,Self,No
+288,1,1,1,1,1,0,0,1,1,1,26.0,F,White-European,No,Yes,Self,Yes
+289,1,1,1,1,1,0,0,1,0,1,27.0,F,White-European,No,No,Self,Yes
+290,1,1,1,1,1,0,1,0,1,0,47.0,F,White-European,Yes,Yes,Self,Yes
+291,1,1,1,1,0,1,0,1,1,1,37.0,M,White-European,No,No,Self,Yes
+292,0,0,0,1,0,0,1,1,0,1,32.0,M,Asian,No,No,Self,No
+293,0,0,0,0,1,0,0,1,0,1,26.0,F,Asian,No,No,Family Member,No
+294,1,1,1,1,1,1,1,1,1,1,46.0,F,White-European,Yes,Yes,Self,Yes
+295,0,1,0,0,0,0,0,1,0,0,29.0,M,Black,No,No,Self,No
+296,1,0,0,0,1,0,0,0,0,0,30.0,F,Black,No,No,Self,No
+297,1,1,0,0,0,0,1,1,0,0,32.0,F,Latino,No,No,Relative,No
+298,0,1,1,1,0,0,0,0,0,1,35.0,F,White-European,Yes,No,Self,No
+299,0,1,0,0,1,0,0,0,0,0,52.0,F,Asian,No,No,Family Member,No
+300,0,1,0,0,1,1,0,0,1,1,52.0,M,Asian,No,No,Family Member,No
+301,1,0,1,0,0,1,0,1,0,0,32.0,F,White-European,No,No,Self,No
+302,0,1,0,0,0,0,0,0,0,0,49.0,F,Middle Eastern,Yes,No,Parent,No
+303,0,1,1,1,1,1,1,1,1,1,30.0,F,Asian,No,No,Self,Yes
+304,0,1,1,1,1,1,1,1,1,1,30.0,F,Asian,No,Yes,Self,Yes
+305,1,0,1,1,1,1,1,1,1,1,35.0,F,White-European,Yes,No,Self,Yes
+306,1,0,1,1,1,1,1,0,0,1,35.0,F,White-European,Yes,No,Self,Yes
+307,1,0,1,1,0,0,0,0,0,1,37.0,F,White-European,No,Yes,Self,No
+308,0,1,1,1,0,0,0,1,0,1,43.0,M,White-European,No,No,Self,No
+309,1,1,1,1,0,0,1,0,0,1,52.0,M,White-European,No,No,Self,No
+310,1,1,1,1,1,1,1,1,1,1,44.0,M,White-European,No,Yes,Self,Yes
+311,1,1,0,0,0,0,0,0,0,0,46.0,F,White-European,No,Yes,Self,No
+312,1,0,0,0,1,0,0,0,0,1,42.0,F,White-European,No,Yes,Self,No
+313,1,1,1,1,1,1,0,1,1,1,38.0,M,White-European,No,No,Relative,Yes
+314,1,1,0,0,0,0,0,1,0,0,32.0,M,Asian,No,No,Family Member,No
+315,1,1,0,1,1,0,0,0,0,0,29.0,M,Turkish,No,No,Self,No
+316,1,1,1,1,1,1,1,0,1,1,39.0,F,White-European,No,Yes,Self,Yes
+317,0,1,0,0,0,0,0,1,0,0,28.0,F,Turkish,No,No,Self,No
+318,0,1,0,1,0,1,0,0,0,1,29.0,M,Asian,No,No,Self,No
+319,1,1,0,0,0,0,1,1,0,0,48.0,M,White-European,No,No,Self,No
+320,1,1,1,1,1,1,0,1,1,1,27.0,F,White-European,Yes,Yes,Self,Yes
+321,1,0,1,1,0,0,0,0,0,0,34.0,F,White-European,No,No,Self,No
+322,1,1,0,1,0,0,0,0,0,1,31.0,M,White-European,No,No,Self,No
+323,1,0,0,0,0,0,0,1,0,1,47.0,M,Asian,No,No,Family Member,No
+324,1,0,0,1,0,0,0,1,0,0,47.0,M,Asian,No,No,Family Member,No
+325,1,1,1,1,1,1,1,1,1,1,44.0,M,White-European,No,Yes,Self,Yes
+326,1,0,0,0,1,0,1,1,0,0,25.0,F,White-European,No,No,Self,No
+327,1,0,0,0,1,0,1,1,0,0,25.0,F,White-European,No,No,Self,No
+328,1,1,1,1,1,0,1,1,1,1,43.0,M,White-European,Yes,No,Self,Yes
+329,1,1,1,1,1,0,0,1,1,1,36.0,F,White-European,No,Yes,Self,Yes
+330,1,1,0,0,0,0,0,1,0,0,30.0,F,Asian,No,Yes,Self,No
+331,0,0,1,1,0,0,0,0,0,0,44.0,M,Black,No,No,Self,No
+332,1,1,0,0,1,0,0,0,0,1,40.0,F,Black,No,No,Parent,No
+333,1,1,0,0,1,1,0,1,1,0,40.0,F,Black,Yes,No,Relative,No
+334,1,1,0,1,1,1,0,1,1,0,40.0,F,Black,Yes,Yes,Relative,Yes
+335,1,1,1,1,1,0,0,1,0,1,30.0,M,Others,No,No,Self,Yes
+336,1,0,1,1,0,0,1,0,0,1,47.0,F,White-European,No,No,Self,No
+337,1,0,1,1,1,1,1,1,1,1,31.0,F,Asian,No,No,Family Member,Yes
+338,0,1,1,1,0,0,0,1,1,0,29.0,F,Asian,No,No,Self,No
+339,1,1,1,1,1,1,1,1,1,1,51.0,M,White-European,Yes,No,Self,Yes
+340,1,0,0,0,1,0,0,0,1,1,30.0,M,Asian,No,No,Self,No
+341,1,0,0,0,0,0,0,1,0,1,26.0,F,South Asian,No,No,Self,No
+342,1,0,1,1,0,0,0,1,1,1,33.0,F,Asian,No,No,Parent,No
+343,1,0,1,0,0,0,0,1,0,0,42.0,F,Asian,No,No,Self,No
+344,1,0,1,0,0,0,0,0,0,0,26.0,F,Asian,No,No,Self,No
+345,1,0,0,0,0,0,0,1,0,0,29.0,F,Asian,No,No,Self,No
+346,1,0,0,0,0,0,1,0,0,1,35.0,F,Asian,No,No,Self,No
+347,1,0,0,0,1,1,0,1,0,0,25.0,F,South Asian,No,No,Self,No
+348,1,0,0,0,0,0,1,1,0,0,25.0,M,Asian,No,No,Self,No
+349,0,0,0,0,0,0,0,1,0,0,28.0,F,Asian,Yes,No,Self,No
+350,1,0,0,0,0,0,0,0,0,0,33.0,M,White-European,No,No,Self,No
+351,1,0,0,1,0,0,1,1,0,0,25.0,M,Asian,No,No,Self,No
+352,0,0,1,0,1,1,0,1,0,1,25.0,M,Asian,No,No,Self,No
+353,1,1,1,1,0,0,0,0,0,1,27.0,F,South Asian,No,No,Self,No
+354,1,0,1,1,0,1,0,1,0,1,27.0,F,South Asian,No,No,Self,No
+355,1,0,0,1,0,0,0,1,0,1,30.0,M,Asian,No,No,Self,No
+356,0,1,0,0,1,0,1,1,0,0,33.0,M,Asian,No,No,Self,No
+357,1,0,0,0,0,0,0,1,0,1,29.0,F,South Asian,No,No,Self,No
+358,1,1,0,1,1,0,1,1,0,0,32.0,M,Asian,No,No,Self,No
+359,0,0,0,0,0,0,1,0,0,1,27.0,M,Asian,No,No,Self,No
+360,0,0,1,0,0,0,0,1,0,0,28.0,F,Asian,No,No,Parent,No
+361,1,1,0,0,1,0,0,1,1,1,25.0,F,Middle Eastern,No,No,Self,No
+362,0,1,1,0,0,0,1,0,0,1,36.0,M,White-European,No,No,Self,No
+363,0,0,0,0,0,0,0,0,0,0,27.0,F,Asian,No,No,Family Member,No
+364,1,0,0,0,1,1,1,1,1,1,49.0,M,Black,No,No,Parent,Yes
+365,1,0,1,1,1,0,1,1,1,0,29.0,M,Latino,No,No,Self,Yes
+366,0,0,0,0,1,0,0,1,0,0,31.0,F,Asian,No,No,Family Member,No
+367,1,0,0,0,0,0,0,0,0,0,37.0,F,Middle Eastern,No,No,Parent,No
+368,1,1,1,1,0,0,0,0,0,0,38.0,F,Middle Eastern,No,No,Self,No
+369,1,0,1,1,1,0,0,0,0,0,31.0,F,Middle Eastern,No,No,Self,No
+370,0,1,1,1,0,0,0,0,0,0,33.0,M,Middle Eastern,Yes,No,Self,No
+371,1,1,0,0,0,0,0,0,0,0,32.0,F,Middle Eastern,Yes,No,Self,No
+372,1,0,0,0,0,0,1,0,0,1,30.0,M,Asian,Yes,No,Family Member,No
+373,0,0,0,0,0,0,0,0,0,1,33.0,F,Asian,No,No,Family Member,No
+374,1,1,1,1,1,1,1,1,1,1,30.0,F,White-European,No,Yes,Self,Yes
+375,1,1,1,1,1,0,1,1,1,1,30.0,M,Asian,No,No,Self,Yes
+376,1,0,0,1,1,0,1,0,0,1,38.0,F,White-European,No,Yes,Self,No
+377,1,1,0,0,1,0,1,0,1,0,36.0,M,others,No,No,Self,No
+378,0,0,1,1,0,0,1,0,0,0,43.0,M,Asian,No,No,Family Member,No
+379,1,1,1,1,1,1,0,0,1,1,44.0,M,Asian,No,No,Family Member,Yes
+380,1,1,1,1,1,1,0,1,1,1,40.0,F,Others,Yes,Yes,Self,Yes
+381,1,0,0,1,1,1,0,0,1,0,25.0,M,White-European,No,No,Self,No
+382,1,0,0,0,0,0,1,1,0,1,28.0,M,White-European,No,No,Self,No
+383,1,1,1,1,1,1,1,0,1,1,34.0,M,White-European,No,No,Self,Yes
+384,0,0,0,0,0,0,0,1,0,0,56.0,M,Asian,No,No,Family Member,No
+385,0,0,1,0,0,0,1,1,0,0,50.0,F,Middle Eastern,No,No,Parent,No
+386,1,0,0,0,0,0,1,1,0,1,38.0,M,White-European,No,No,Self,No
+387,1,1,1,1,1,1,1,1,1,1,47.0,M,White-European,No,No,Self,Yes
+388,1,1,1,1,1,0,1,1,1,1,30.0,M,Others,No,No,Self,Yes
+389,1,1,1,0,1,0,1,1,1,1,31.0,M,Latino,No,No,Self,Yes
+390,1,1,0,0,1,1,0,1,0,1,27.0,F,White-European,Yes,No,Self,No
+391,1,1,0,0,0,0,1,0,0,1,35.0,M,White-European,Yes,No,Parent,No
+392,1,1,1,1,1,0,0,1,1,1,43.0,F,Black,No,No,Self,Yes
+393,1,1,1,1,1,1,1,1,1,1,44.0,M,White-European,No,Yes,Self,Yes
+394,1,1,1,1,1,1,1,1,1,1,40.0,M,White-European,Yes,Yes,Parent,Yes
+395,1,1,0,1,1,1,1,1,1,1,49.0,F,Hispanic,No,No,Self,Yes
+396,1,1,0,0,0,0,0,1,1,0,30.0,F,White-European,Yes,Yes,Self,No
+397,1,0,1,0,0,0,0,1,0,1,53.0,M,Hispanic,No,No,Relative,No
+398,1,0,1,1,1,0,0,1,1,1,38.0,M,White-European,No,Yes,Self,Yes
+399,1,0,0,0,1,0,1,1,0,1,28.0,M,White-European,No,No,Self,No
+400,1,1,1,0,1,1,1,1,1,1,28.0,M,White-European,No,No,Self,Yes
+401,1,0,1,1,1,1,1,0,1,1,26.0,M,Black,No,No,Self,Yes
+402,1,0,0,0,1,1,1,1,1,1,39.0,F,White-European,No,No,Self,Yes
+403,0,0,0,0,1,0,0,0,0,0,31.0,F,Asian,Yes,No,Self,No
+404,1,1,1,0,1,1,1,1,0,1,28.0,M,White-European,No,No,Self,Yes
+405,1,0,0,1,0,0,0,1,0,1,31.0,F,White-European,No,No,Self,No
+406,1,1,1,1,1,0,0,1,0,1,27.0,M,White-European,Yes,No,Self,Yes
+407,1,0,1,1,0,0,1,1,0,0,28.0,M,Latino,No,No,Parent,No
+408,1,1,1,1,1,1,0,1,1,1,31.0,M,Turkish,No,Yes,Self,Yes
+409,1,1,1,1,1,0,0,0,0,1,46.0,F,Asian,No,No,Self,No
+410,1,1,1,1,1,1,1,1,1,1,27.0,F,Pacifica,No,No,Self,Yes
+411,0,1,0,1,1,0,1,1,1,1,25.0,F,White-European,No,No,Self,Yes
+412,1,0,0,0,0,0,0,1,0,1,34.0,M,Hispanic,No,No,Parent,No
+413,1,0,0,1,1,0,1,0,1,1,35.0,M,South Asian,No,No,Self,No
+414,1,0,1,1,1,0,1,1,1,1,26.0,F,White-European,No,No,Self,Yes

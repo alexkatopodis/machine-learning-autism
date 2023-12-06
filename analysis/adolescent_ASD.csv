@@ -1,0 +1,721 @@
+,A1,A2,A3,A4,A5,A6,A7,A8,A9,A10_Autism_Spectrum_Quotient,Age_Years,Sex,Ethnicity,Jaundice,Family_mem_with_ASD,Who_completed_the_test,ASD_traits
+0,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,No,No,Family Member,No
+1,0,1,0,0,1,0,1,0,0,1,14.0,F,Asian,No,No,Family Member,No
+2,0,0,0,0,0,0,0,0,0,1,15.0,F,Middle Eastern,Yes,No,Family Member,No
+3,0,0,0,0,0,0,0,0,0,1,12.0,M,White European,Yes,No,Family Member,No
+4,0,0,0,0,0,0,0,0,0,1,15.0,M,Middle Eastern,Yes,Yes,Family Member,No
+5,1,1,1,1,1,1,1,1,1,1,12.0,M,Middle Eastern,Yes,Yes,Family Member,Yes
+6,0,0,0,0,0,0,0,0,0,1,12.0,M,Black,Yes,Yes,Family Member,No
+7,0,0,0,1,1,1,1,1,1,0,12.0,M,Asian,Yes,Yes,Family Member,Yes
+8,1,1,0,0,1,1,1,1,1,1,15.0,M,White European,Yes,No,Family Member,Yes
+9,0,0,1,1,1,1,1,0,0,0,12.0,M,White European,Yes,Yes,Family Member,Yes
+10,0,0,1,1,0,0,0,0,1,0,12.0,M,Middle Eastern,Yes,Yes,Family Member,No
+11,1,0,1,1,0,1,1,1,1,0,15.0,M,Asian,Yes,Yes,Family Member,Yes
+12,1,1,0,0,1,1,1,1,1,0,14.0,M,Asian,Yes,Yes,Family Member,Yes
+13,0,0,0,0,0,0,0,1,0,0,15.0,F,Others,Yes,Yes,Family Member,No
+14,1,1,0,0,0,0,0,1,1,0,15.0,M,Middle Eastern,Yes,Yes,Family Member,Yes
+15,1,1,0,0,1,1,1,0,1,1,11.0,M,White European,Yes,Yes,Family Member,Yes
+16,0,0,1,1,1,1,1,1,1,1,14.0,M,Asian,Yes,Yes,Family Member,Yes
+17,1,0,1,1,1,0,0,1,1,1,15.0,M,Asian,Yes,Yes,Family Member,Yes
+18,1,1,0,0,0,0,0,1,1,0,15.0,M,Asian,Yes,No,Family Member,Yes
+19,1,1,1,1,1,1,1,1,1,0,15.0,M,South Asian,Yes,Yes,Family Member,Yes
+20,0,0,0,0,0,0,0,0,0,1,12.0,M,Asian,Yes,Yes,Health Care Professional,No
+21,0,1,1,1,0,1,1,1,1,1,14.0,M,Asian,Yes,Yes,Health Care Professional,Yes
+22,1,0,1,1,1,1,0,0,1,0,12.0,M,White European,Yes,No,Health Care Professional,Yes
+23,0,0,0,0,0,0,1,0,0,0,12.0,M,Asian,Yes,Yes,Health Care Professional,No
+24,0,1,0,0,0,0,1,0,0,1,12.0,M,Asian,Yes,Yes,Health Care Professional,No
+25,0,0,0,0,0,0,1,0,0,0,11.0,M,White European,Yes,Yes,Health Care Professional,No
+26,0,0,0,1,1,1,0,0,0,0,11.0,M,Mixed,Yes,Yes,Health Care Professional,No
+27,0,1,0,1,0,1,1,1,0,0,12.0,F,White European,Yes,Yes,Health Care Professional,Yes
+28,1,0,0,0,0,1,0,0,1,0,13.0,M,Asian,Yes,Yes,Health Care Professional,No
+29,1,0,1,1,0,0,0,0,0,0,12.0,M,South Asian,Yes,No,Health Care Professional,No
+30,1,0,1,1,1,1,1,1,1,1,15.0,M,Asian,Yes,Yes,Health Care Professional,Yes
+31,0,0,0,0,1,0,1,0,1,1,12.0,F,White European,Yes,No,Health Care Professional,Yes
+32,1,1,1,1,0,1,1,0,1,1,14.0,F,Asian,Yes,No,Health Care Professional,Yes
+33,1,1,0,1,0,1,1,0,1,0,15.0,F,Asian,Yes,No,Health Care Professional,Yes
+34,1,1,0,0,0,0,1,0,0,1,15.0,M,Middle Eastern,Yes,No,Health Care Professional,Yes
+35,1,1,1,1,1,1,1,0,1,1,12.0,M,White European,Yes,Yes,Health Care Professional,Yes
+36,0,0,0,1,1,1,1,1,0,0,15.0,M,White European,Yes,Yes,Health Care Professional,Yes
+37,0,1,0,1,0,1,0,0,0,0,15.0,M,Middle Eastern,Yes,No,Health Care Professional,No
+38,0,0,0,0,1,0,0,0,0,1,13.0,M,South Asian,Yes,Yes,Health Care Professional,No
+39,0,0,0,0,0,1,0,0,1,1,13.0,F,Middle Eastern,Yes,Yes,Health Care Professional,No
+40,1,1,0,0,0,0,0,1,0,1,12.0,M,White European,Yes,Yes,Health Care Professional,Yes
+41,1,1,0,1,0,0,1,1,1,1,13.0,M,Black,Yes,Yes,Health Care Professional,Yes
+42,1,1,0,1,1,1,1,1,1,1,14.0,F,Asian,Yes,Yes,Health Care Professional,Yes
+43,1,1,1,1,1,1,1,1,1,1,14.0,M,Middle Eastern,Yes,Yes,Health Care Professional,Yes
+44,0,0,0,1,1,1,1,1,0,1,12.0,M,Asian,Yes,No,Health Care Professional,Yes
+45,1,1,1,1,1,1,1,1,1,1,15.0,F,Middle Eastern,Yes,Yes,Health Care Professional,Yes
+46,1,0,1,1,1,1,0,1,1,0,12.0,F,Middle Eastern,Yes,Yes,Health Care Professional,Yes
+47,1,1,1,1,1,1,1,1,1,1,15.0,M,White European,Yes,No,Health Care Professional,Yes
+48,1,1,1,1,1,1,1,1,0,0,13.0,M,Asian,Yes,Yes,Health Care Professional,Yes
+49,1,1,1,1,1,1,1,1,0,1,14.0,M,White European,Yes,Yes,Health Care Professional,Yes
+50,1,1,0,0,1,1,1,0,1,1,14.0,M,White European,Yes,No,Health Care Professional,Yes
+51,1,1,1,1,1,1,1,1,1,0,12.0,M,White European,Yes,Yes,Health Care Professional,Yes
+52,1,0,1,1,0,1,0,0,1,0,13.0,F,Middle Eastern,Yes,Yes,Health Care Professional,Yes
+53,0,0,0,0,0,0,0,0,0,0,15.0,M,Middle Eastern,Yes,Yes,Health Care Professional,No
+54,0,0,0,0,1,1,1,0,0,0,14.0,M,Asian,Yes,No,Health Care Professional,No
+55,0,0,0,1,1,1,1,1,0,0,14.0,M,Latino,Yes,Yes,Health Care Professional,Yes
+56,0,0,0,0,0,0,0,0,0,0,14.0,M,Mixed,Yes,Yes,Health Care Professional,No
+57,1,1,0,0,0,1,1,0,1,0,15.0,M,Asian,Yes,Yes,Health Care Professional,Yes
+58,0,1,0,1,1,1,1,1,1,0,15.0,M,Middle Eastern,Yes,Yes,Health Care Professional,Yes
+59,0,1,0,1,1,1,0,1,1,1,14.0,M,Middle Eastern,Yes,Yes,Health Care Professional,Yes
+60,0,0,0,0,0,0,0,0,0,1,14.0,M,White European,Yes,No,Health Care Professional,No
+61,1,1,1,1,1,1,1,1,1,0,12.0,M,White European,Yes,No,Health Care Professional,Yes
+62,1,1,1,1,1,1,1,1,1,0,14.0,M,White European,Yes,Yes,Health Care Professional,Yes
+63,1,1,0,1,1,1,1,0,0,1,15.0,F,White European,Yes,No,Health Care Professional,Yes
+64,1,1,0,0,1,1,1,1,1,1,14.0,M,White European,Yes,Yes,Health Care Professional,Yes
+65,1,1,0,0,0,1,1,1,1,0,14.0,F,Asian,Yes,No,Health Care Professional,Yes
+66,0,1,0,0,1,1,1,0,0,1,12.0,F,Hispanic,Yes,Yes,Health Care Professional,Yes
+67,1,1,0,0,1,1,1,0,0,0,14.0,M,White European,Yes,Yes,Health Care Professional,Yes
+68,1,1,1,0,1,0,0,0,1,0,14.0,M,South Asian,Yes,Yes,Health Care Professional,Yes
+69,0,0,0,0,1,1,1,1,1,1,12.0,M,White European,Yes,Yes,Health Care Professional,Yes
+70,1,0,0,0,1,1,1,0,1,0,14.0,F,Asian,Yes,No,Health Care Professional,Yes
+71,0,0,0,0,0,0,0,0,0,0,15.0,F,Asian,Yes,Yes,Health Care Professional,No
+72,0,0,1,0,1,1,1,1,1,0,14.0,M,Asian,Yes,Yes,Health Care Professional,Yes
+73,0,0,1,1,1,1,1,0,1,1,14.0,M,White European,Yes,No,Health Care Professional,Yes
+74,0,0,0,0,0,0,0,0,0,0,12.0,M,Asian,Yes,Yes,Health Care Professional,No
+75,1,1,1,1,1,1,1,1,1,1,12.0,F,Asian,Yes,Yes,Health Care Professional,Yes
+76,1,0,0,1,0,1,0,0,0,0,11.0,F,Middle Eastern,Yes,Yes,Health Care Professional,No
+77,0,1,1,1,1,1,0,1,1,0,12.0,M,Black,Yes,No,Health Care Professional,Yes
+78,0,0,0,0,0,0,0,0,0,1,13.0,F,Hispanic,Yes,Yes,Health Care Professional,No
+79,1,1,1,1,1,1,1,1,1,1,14.0,M,White European,Yes,Yes,Health Care Professional,Yes
+80,1,1,1,1,1,0,1,1,1,1,12.0,M,Asian,Yes,Yes,Health Care Professional,Yes
+81,0,0,0,0,0,0,0,0,0,1,13.0,F,Middle Eastern,Yes,No,Health Care Professional,No
+82,0,0,0,0,0,0,0,0,0,1,13.0,F,Middle Eastern,Yes,No,Health Care Professional,No
+83,0,0,0,0,0,0,0,0,0,1,13.0,F,Middle Eastern,Yes,No,Health Care Professional,No
+84,1,1,0,0,1,1,1,0,1,1,14.0,M,Asian,Yes,Yes,Health Care Professional,Yes
+85,1,1,0,1,1,1,1,0,1,0,14.0,M,Asian,Yes,Yes,Health Care Professional,Yes
+86,0,0,0,0,0,0,0,0,0,0,13.0,F,Asian,Yes,Yes,Health Care Professional,No
+87,0,0,0,1,1,1,1,0,0,0,13.0,M,Black,Yes,No,Health Care Professional,Yes
+88,1,1,1,0,1,1,1,1,1,0,15.0,M,Asian,Yes,Yes,Health Care Professional,Yes
+89,1,0,1,1,1,0,0,0,1,0,14.0,F,Hispanic,Yes,Yes,Health Care Professional,Yes
+90,1,1,1,1,1,1,1,1,0,1,14.0,M,Latino,Yes,No,Health Care Professional,Yes
+91,0,0,1,1,0,0,0,0,0,0,14.0,M,Asian,Yes,Yes,Health Care Professional,No
+92,1,1,1,1,1,1,0,1,1,1,14.0,M,Asian,Yes,Yes,Health Care Professional,Yes
+93,1,1,1,1,1,1,0,1,1,1,14.0,M,Asian,Yes,Yes,Health Care Professional,Yes
+94,1,1,0,0,0,1,1,1,1,1,14.0,F,Asian,Yes,No,Health Care Professional,Yes
+95,0,0,0,0,0,1,1,0,0,1,15.0,F,Middle Eastern,Yes,Yes,Health Care Professional,No
+96,1,1,0,0,0,0,1,1,0,1,13.0,M,Asian,Yes,Yes,Health Care Professional,Yes
+97,1,1,0,1,1,1,1,0,0,1,13.0,M,Asian,Yes,Yes,Health Care Professional,Yes
+98,0,0,0,0,0,1,1,1,0,1,15.0,M,Latino,Yes,Yes,Health Care Professional,Yes
+99,1,1,0,1,1,1,1,1,1,1,14.0,M,White European,Yes,Yes,Health Care Professional,Yes
+100,0,1,1,0,0,1,0,0,1,1,14.0,M,Black,Yes,Yes,Health Care Professional,Yes
+101,1,0,0,0,1,1,0,1,0,1,14.0,M,White European,Yes,Yes,Health Care Professional,Yes
+102,0,0,0,0,1,1,1,0,0,1,14.0,M,White European,Yes,No,Health Care Professional,Yes
+103,1,0,0,1,1,1,1,0,1,1,14.0,F,South Asian,Yes,Yes,Health Care Professional,Yes
+104,1,1,1,1,1,1,1,1,0,1,14.0,M,White European,Yes,Yes,Health Care Professional,Yes
+105,0,1,1,1,1,1,1,0,1,1,15.0,M,Asian,Yes,Yes,Health Care Professional,Yes
+106,1,1,1,1,0,1,1,0,1,0,14.0,F,White European,Yes,Yes,Health Care Professional,Yes
+107,1,0,0,0,0,0,1,1,1,1,15.0,F,Asian,Yes,Yes,Health Care Professional,Yes
+108,1,1,0,1,1,0,1,0,0,0,12.0,M,Middle Eastern,Yes,Yes,Health Care Professional,Yes
+109,1,1,0,1,1,1,1,0,0,0,14.0,M,Middle Eastern,Yes,Yes,Health Care Professional,Yes
+110,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,Yes,Health Care Professional,No
+111,1,1,1,1,1,1,1,1,1,1,14.0,M,Pacifica,Yes,Yes,Health Care Professional,Yes
+112,1,1,0,0,1,1,1,0,0,1,14.0,M,White European,Yes,No,Health Care Professional,Yes
+113,1,0,1,1,1,1,0,1,1,0,14.0,M,Asian,Yes,Yes,Health Care Professional,Yes
+114,0,0,1,1,1,1,1,1,1,1,14.0,F,White European,Yes,Yes,Health Care Professional,Yes
+115,0,0,1,1,1,0,1,1,1,1,14.0,M,White European,Yes,Yes,Health Care Professional,Yes
+116,1,1,1,1,1,1,1,1,1,1,14.0,M,White European,Yes,Yes,Health Care Professional,Yes
+117,1,1,0,1,1,0,1,0,0,1,14.0,M,White European,Yes,Yes,Others,Yes
+118,1,1,0,1,0,0,1,0,0,0,14.0,M,White European,Yes,Yes,Health Care Professional,Yes
+119,1,1,1,1,0,1,1,1,1,1,14.0,F,White European,Yes,No,Health Care Professional,Yes
+120,1,0,0,0,0,0,0,0,0,0,14.0,M,Asian,Yes,Yes,Health Care Professional,No
+121,1,1,1,1,1,1,1,1,1,0,14.0,F,South Asian,Yes,No,Health Care Professional,Yes
+122,1,0,0,0,1,1,1,1,1,1,14.0,F,Asian,Yes,No,Health Care Professional,Yes
+123,1,0,0,0,0,1,1,1,1,1,14.0,F,Asian,Yes,Yes,Health Care Professional,Yes
+124,1,1,1,1,1,1,1,0,1,1,14.0,M,Middle Eastern,Yes,Yes,Health Care Professional,Yes
+125,1,1,0,1,0,1,1,1,1,0,14.0,M,Hispanic,Yes,Yes,Health Care Professional,Yes
+126,1,1,1,1,1,1,0,0,1,1,14.0,M,Pacifica,Yes,Yes,Health Care Professional,Yes
+127,1,1,1,1,1,1,1,1,1,1,14.0,M,Native Indian,Yes,No,Health Care Professional,Yes
+128,1,1,1,1,1,0,1,1,1,0,14.0,M,Black,Yes,Yes,Health Care Professional,Yes
+129,1,0,0,1,1,1,0,0,0,1,14.0,M,White European,Yes,No,Health Care Professional,Yes
+130,1,0,0,0,1,1,1,1,1,0,14.0,M,White European,Yes,Yes,Health Care Professional,Yes
+131,1,1,1,1,1,1,1,1,1,1,14.0,M,White European,Yes,Yes,Health Care Professional,Yes
+132,1,1,0,0,1,0,0,0,0,1,14.0,M,White European,Yes,No,Health Care Professional,Yes
+133,0,0,0,0,1,0,0,0,0,1,14.0,M,Asian,Yes,Yes,Health Care Professional,No
+134,0,0,0,0,1,1,1,1,1,1,14.0,M,Asian,Yes,Yes,Health Care Professional,Yes
+135,1,1,1,1,0,1,1,0,1,1,14.0,F,White European,Yes,Yes,Health Care Professional,Yes
+136,1,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,Yes,Yes,Health Care Professional,No
+137,1,0,0,0,1,1,1,0,0,0,14.0,M,Asian,Yes,Yes,Health Care Professional,Yes
+138,1,1,1,1,1,1,1,1,1,1,14.0,M,Black,Yes,Yes,Health Care Professional,Yes
+139,1,1,1,1,0,0,1,1,1,1,14.0,M,Black,Yes,No,Health Care Professional,Yes
+140,1,1,1,1,1,1,1,1,1,1,14.0,F,White European,Yes,Yes,Health Care Professional,Yes
+141,0,0,0,1,1,1,0,1,1,0,14.0,M,Middle Eastern,Yes,Yes,Health Care Professional,Yes
+142,0,0,0,0,1,1,1,0,1,1,14.0,F,Asian,Yes,Yes,Health Care Professional,Yes
+143,1,1,1,0,1,1,1,1,1,0,14.0,F,Asian,Yes,Yes,Health Care Professional,Yes
+144,1,1,1,0,1,1,1,1,0,0,14.0,F,Asian,Yes,Yes,Health Care Professional,Yes
+145,1,1,0,1,1,1,0,0,0,0,14.0,M,Others,Yes,Yes,Health Care Professional,Yes
+146,0,0,0,0,0,1,0,0,0,0,14.0,F,White European,Yes,Yes,Health Care Professional,No
+147,1,1,0,0,0,0,1,0,0,1,14.0,M,Hispanic,Yes,Yes,Health Care Professional,Yes
+148,1,1,0,0,1,0,1,0,0,1,14.0,M,Middle Eastern,Yes,No,Health Care Professional,Yes
+149,1,1,0,0,0,0,1,0,0,1,14.0,M,Middle Eastern,Yes,Yes,Health Care Professional,Yes
+150,1,1,1,1,1,1,1,1,1,1,14.0,F,Black,Yes,Yes,Health Care Professional,Yes
+151,0,0,1,0,0,1,0,0,0,1,14.0,F,South Asian,Yes,Yes,Health Care Professional,No
+152,1,1,0,1,1,1,1,1,0,1,14.0,M,White European,Yes,Yes,Health Care Professional,Yes
+153,0,1,0,1,1,0,1,0,0,1,14.0,M,White European,Yes,Yes,Health Care Professional,Yes
+154,1,0,1,1,1,1,0,1,1,1,14.0,M,White European,Yes,No,Health Care Professional,Yes
+155,1,1,0,1,0,0,1,0,1,1,14.0,M,White European,Yes,Yes,Health Care Professional,Yes
+156,1,1,0,1,0,1,1,1,1,1,14.0,M,White European,Yes,Yes,Health Care Professional,Yes
+157,1,1,0,0,1,0,0,1,0,1,14.0,M,White European,Yes,No,Health Care Professional,Yes
+158,1,1,0,1,0,1,1,1,1,1,14.0,F,Asian,Yes,Yes,Health Care Professional,Yes
+159,1,0,0,0,0,0,0,0,0,1,14.0,M,Hispanic,Yes,Yes,Health Care Professional,No
+160,1,0,0,0,0,0,1,0,0,1,14.0,M,White European,Yes,Yes,Health Care Professional,No
+161,0,1,0,0,0,0,0,1,0,0,14.0,M,White European,Yes,No,Health Care Professional,No
+162,0,0,1,1,0,1,0,1,0,0,14.0,F,White European,Yes,No,Health Care Professional,Yes
+163,0,0,0,1,0,0,1,0,0,1,14.0,M,Middle Eastern,Yes,No,Health Care Professional,No
+164,0,0,1,1,1,1,1,1,1,1,14.0,M,White European,Yes,Yes,Health Care Professional,Yes
+165,1,0,0,0,1,1,1,0,0,1,14.0,M,Asian,Yes,No,Health Care Professional,Yes
+166,1,0,0,0,1,1,1,0,1,0,14.0,M,Asian,Yes,No,Health Care Professional,Yes
+167,0,0,1,1,1,1,1,1,1,1,14.0,F,White European,Yes,Yes,Health Care Professional,Yes
+168,0,0,1,1,0,1,0,1,1,1,14.0,M,Hispanic,Yes,Yes,Health Care Professional,Yes
+169,0,0,0,0,1,0,1,1,0,0,14.0,M,Hispanic,Yes,No,Health Care Professional,No
+170,1,1,1,1,1,1,1,1,1,1,14.0,M,White European,Yes,No,Health Care Professional,Yes
+171,1,1,1,1,1,1,1,1,1,1,14.0,M,Asian,Yes,No,Health Care Professional,Yes
+172,1,1,1,1,1,1,1,1,1,1,14.0,M,Asian,Yes,No,Health Care Professional,Yes
+173,0,0,0,1,0,0,1,0,1,0,14.0,M,Asian,Yes,No,Health Care Professional,No
+174,0,1,0,1,0,0,0,0,1,1,14.0,M,Black,Yes,Yes,Health Care Professional,Yes
+175,1,0,0,1,1,1,1,1,1,1,14.0,M,Asian,Yes,No,Health Care Professional,Yes
+176,1,1,0,1,1,1,1,1,1,1,14.0,M,Asian,Yes,No,Health Care Professional,Yes
+177,1,1,1,1,1,1,1,1,1,1,14.0,M,Asian,Yes,No,Health Care Professional,Yes
+178,1,1,1,1,0,1,1,0,1,1,14.0,M,White European,Yes,No,Health Care Professional,Yes
+179,1,1,1,1,1,1,1,1,1,0,14.0,F,Latino,Yes,No,Health Care Professional,Yes
+180,1,1,1,1,1,1,1,1,1,1,14.0,M,Latino,Yes,No,Others,Yes
+181,0,0,1,1,0,1,1,1,1,0,15.0,M,White European,Yes,No,Health Care Professional,Yes
+182,1,0,1,1,0,1,1,0,1,0,14.0,F,Asian,No,No,Health Care Professional,Yes
+183,0,0,1,1,1,1,0,0,1,0,14.0,M,Asian,No,No,Health Care Professional,Yes
+184,0,0,1,1,1,1,0,0,1,0,14.0,M,Asian,No,No,Health Care Professional,Yes
+185,0,1,0,0,1,1,1,1,0,1,14.0,M,White European,Yes,No,Health Care Professional,Yes
+186,1,1,1,1,1,1,1,1,1,1,14.0,M,South Asian,No,No,Health Care Professional,Yes
+187,0,0,1,1,0,0,0,0,0,1,14.0,M,Asian,No,No,Health Care Professional,No
+188,0,0,1,1,0,1,0,0,0,1,14.0,M,Asian,No,No,Health Care Professional,Yes
+189,0,0,0,0,0,0,0,0,0,1,14.0,M,White European,Yes,Yes,Health Care Professional,No
+190,1,0,1,1,1,1,1,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+191,0,0,1,1,1,1,1,0,0,1,14.0,M,White European,No,No,Health Care Professional,Yes
+192,1,0,0,0,1,1,1,1,0,1,14.0,M,Asian,No,No,Health Care Professional,Yes
+193,1,1,1,1,1,1,1,0,1,0,14.0,M,Middle Eastern,Yes,No,Health Care Professional,Yes
+194,1,1,1,1,1,0,1,1,1,1,15.0,M,White European,Yes,No,Health Care Professional,Yes
+195,1,0,0,0,1,1,1,1,1,1,14.0,M,White European,Yes,No,Health Care Professional,Yes
+196,1,1,0,1,1,1,1,1,1,1,14.0,M,White European,Yes,No,Health Care Professional,Yes
+197,1,0,1,1,1,0,1,1,1,1,14.0,M,Black,Yes,No,Health Care Professional,Yes
+198,1,1,1,1,1,1,1,1,1,1,14.0,M,White European,Yes,No,Health Care Professional,Yes
+199,0,0,0,0,0,0,1,0,0,0,14.0,M,White European,Yes,No,Health Care Professional,No
+200,0,0,1,0,0,0,0,0,0,0,14.0,M,White European,Yes,Yes,Health Care Professional,No
+201,0,1,1,0,0,0,0,0,0,1,14.0,M,Black,Yes,No,Health Care Professional,No
+202,1,0,1,1,1,1,1,0,1,0,14.0,M,White European,Yes,Yes,Health Care Professional,Yes
+203,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,Yes,No,Health Care Professional,No
+204,0,0,0,0,0,1,0,1,0,0,14.0,M,Middle Eastern,Yes,No,Health Care Professional,No
+205,1,0,0,1,0,0,1,0,1,1,14.0,M,White European,Yes,Yes,Health Care Professional,Yes
+206,0,1,0,1,0,1,1,0,0,0,14.0,M,Asian,Yes,No,Health Care Professional,Yes
+207,1,1,0,0,0,0,0,0,0,0,14.0,M,Asian,Yes,No,Health Care Professional,No
+208,1,1,0,1,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Health Care Professional,No
+209,1,1,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Health Care Professional,No
+210,1,1,0,0,1,1,0,1,1,1,14.0,M,White European,Yes,No,Health Care Professional,Yes
+211,1,1,1,1,1,1,1,1,1,1,14.0,M,Pacifica,Yes,No,Health Care Professional,Yes
+212,1,1,1,1,1,1,1,1,1,0,15.0,M,Middle Eastern,Yes,No,Family Member,Yes
+213,0,0,0,0,0,0,0,0,0,1,14.0,M,Middle Eastern,Yes,No,Family Member,No
+214,0,1,1,1,1,1,1,1,0,1,14.0,M,White European,Yes,No,Self,Yes
+215,1,1,1,1,1,1,1,0,1,1,14.0,M,White European,Yes,No,Family Member,Yes
+216,1,1,1,1,0,1,1,0,0,1,14.0,M,White European,Yes,No,Family Member,Yes
+217,0,0,0,0,0,0,0,0,0,1,14.0,M,Middle Eastern,Yes,No,Health Care Professional,No
+218,1,0,1,1,1,1,1,0,1,1,14.0,M,Middle Eastern,Yes,No,Family Member,Yes
+219,1,0,0,0,1,1,1,0,1,0,14.0,M,Asian,Yes,No,Family Member,Yes
+220,1,0,1,1,1,1,1,1,1,0,14.0,M,Asian,Yes,No,Family Member,Yes
+221,1,1,0,0,1,1,1,1,1,0,14.0,M,South Asian,Yes,No,Family Member,Yes
+222,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Family Member,No
+223,1,1,1,1,1,1,0,1,0,1,14.0,M,White European,Yes,No,Family Member,Yes
+224,1,1,1,1,1,1,1,1,1,0,14.0,M,White European,Yes,Yes,Health Care Professional,Yes
+225,1,1,1,1,1,1,1,1,1,0,15.0,M,Asian,Yes,No,Family Member,Yes
+226,1,1,1,1,1,1,1,1,1,1,14.0,M,White European,Yes,No,Family Member,Yes
+227,0,0,0,0,0,0,1,1,0,1,14.0,M,White European,Yes,No,Family Member,No
+228,0,0,0,0,0,0,1,0,0,1,14.0,M,White European,Yes,Yes,Family Member,No
+229,0,0,1,1,1,1,1,1,1,0,14.0,M,White European,Yes,No,Family Member,Yes
+230,1,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,Yes,Family Member,No
+231,1,1,0,1,1,1,1,1,1,1,14.0,M,South Asian,Yes,No,Family Member,Yes
+232,1,0,0,1,0,1,1,0,0,1,14.0,M,Asian,Yes,No,Family Member,Yes
+233,1,0,0,0,1,1,1,1,1,0,14.0,M,Asian,Yes,No,Family Member,Yes
+234,1,0,1,1,1,1,1,1,1,1,14.0,M,Black,Yes,Yes,Family Member,Yes
+235,0,0,0,0,0,0,0,0,0,0,14.0,M,Black,Yes,Yes,Family Member,No
+236,1,1,0,0,1,1,1,0,1,1,14.0,M,White European,Yes,No,Family Member,Yes
+237,0,0,0,0,0,0,1,0,1,0,14.0,M,Middle Eastern,Yes,No,Family Member,No
+238,1,1,0,0,0,1,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Family Member,No
+239,1,1,1,1,1,1,1,1,1,0,14.0,M,Middle Eastern,Yes,No,Health Care Professional,Yes
+240,1,0,0,0,1,1,1,1,1,1,14.0,M,Asian,Yes,No,Family Member,Yes
+241,0,0,0,1,0,1,1,1,1,0,14.0,M,Asian,Yes,Yes,Family Member,Yes
+242,0,0,1,1,0,0,0,0,1,0,14.0,M,White European,Yes,No,Family Member,No
+243,1,0,0,0,1,1,1,1,1,0,15.0,M,White European,Yes,No,Family Member,Yes
+244,1,1,0,0,0,0,1,1,0,0,14.0,M,Middle Eastern,Yes,No,Family Member,Yes
+245,1,1,1,1,1,1,1,1,1,1,14.0,M,Latino,Yes,No,Family Member,Yes
+246,0,1,0,0,1,1,0,0,1,0,14.0,M,White European,Yes,No,Family Member,Yes
+247,0,0,1,1,1,1,1,1,1,1,14.0,M,Hispanic,Yes,No,Family Member,Yes
+248,0,0,0,0,0,0,1,0,0,1,14.0,M,Middle Eastern,Yes,No,Family Member,No
+249,0,0,0,0,0,0,1,0,0,1,14.0,M,Middle Eastern,Yes,No,Family Member,No
+250,1,1,1,1,1,1,1,0,1,1,14.0,M,Hispanic,Yes,No,Family Member,Yes
+251,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,Yes,No,Family Member,No
+252,1,1,1,0,1,0,1,0,1,1,14.0,M,Asian,Yes,No,Family Member,Yes
+253,1,1,0,1,1,0,1,1,1,0,14.0,M,Black,Yes,Yes,Family Member,Yes
+254,0,0,0,1,1,1,0,1,0,0,14.0,M,Asian,Yes,No,Family Member,Yes
+255,0,1,0,0,0,1,0,0,0,0,14.0,M,White European,Yes,No,Family Member,No
+256,1,1,0,0,1,1,1,1,1,0,14.0,M,White European,Yes,Yes,Family Member,Yes
+257,1,0,0,0,0,0,0,0,0,1,14.0,M,Middle Eastern,Yes,No,Family Member,No
+258,1,1,0,0,0,1,1,0,0,1,14.0,M,White European,Yes,No,Family Member,Yes
+259,1,1,0,0,0,0,1,0,0,0,14.0,M,Hispanic,Yes,No,Family Member,No
+260,1,1,1,1,1,0,1,0,1,0,14.0,M,Asian,Yes,No,Family Member,Yes
+261,0,0,0,0,0,0,0,0,0,0,14.0,M,South Asian,Yes,No,Family Member,No
+262,1,1,1,1,1,1,1,1,1,1,14.0,M,White European,Yes,No,Family Member,Yes
+263,1,1,1,1,0,1,1,1,1,1,14.0,M,White European,Yes,No,Family Member,Yes
+264,1,0,1,1,1,1,1,1,1,1,14.0,M,Latino,Yes,No,Family Member,Yes
+265,1,0,1,1,0,1,1,1,1,1,14.0,M,Latino,Yes,No,Health Care Professional,Yes
+266,0,0,1,1,1,0,1,0,1,0,14.0,M,South Asian,Yes,No,Family Member,Yes
+267,0,0,1,1,1,1,1,1,1,0,14.0,M,White European,Yes,No,Family Member,Yes
+268,0,0,0,0,0,0,0,0,1,0,14.0,M,Asian,Yes,No,Family Member,No
+269,0,0,1,1,0,0,0,0,1,1,14.0,M,Asian,Yes,No,Family Member,Yes
+270,1,0,1,1,1,1,1,0,1,1,14.0,M,Hispanic,Yes,Yes,Family Member,Yes
+271,0,0,0,0,0,0,1,0,0,1,14.0,M,Asian,Yes,No,Family Member,No
+272,1,0,1,1,1,1,1,1,1,0,14.0,M,White European,Yes,No,Family Member,Yes
+273,0,0,0,0,0,1,1,0,0,1,15.0,M,Asian,Yes,Yes,Family Member,No
+274,0,0,0,0,1,1,0,1,0,1,14.0,M,Asian,Yes,Yes,Family Member,Yes
+275,1,0,1,0,0,0,1,0,0,1,14.0,M,Middle Eastern,Yes,Yes,Family Member,Yes
+276,1,0,1,0,0,0,0,0,0,1,14.0,M,Middle Eastern,Yes,Yes,Family Member,No
+277,1,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,Yes,Family Member,No
+278,1,0,0,0,0,0,0,0,0,1,14.0,M,White European,Yes,Yes,Family Member,No
+279,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,Yes,Family Member,No
+280,1,1,0,0,0,1,0,0,0,1,14.0,M,Asian,Yes,Yes,Health Care Professional,Yes
+281,1,1,0,0,1,0,1,1,1,1,14.0,M,White European,Yes,Yes,Family Member,Yes
+282,0,0,0,0,1,1,0,0,1,1,14.0,M,Native Indian,Yes,Yes,Family Member,Yes
+283,0,0,0,0,0,0,1,0,0,1,14.0,M,Middle Eastern,Yes,Yes,Family Member,No
+284,0,0,0,0,1,0,1,0,0,1,14.0,M,White European,Yes,Yes,Family Member,No
+285,1,1,1,1,1,1,1,1,0,1,14.0,M,Black,Yes,Yes,Family Member,Yes
+286,1,0,0,0,0,0,1,1,1,1,15.0,M,White European,Yes,Yes,Family Member,Yes
+287,1,1,1,0,0,0,1,1,0,0,14.0,M,Black,Yes,No,Others,Yes
+288,1,1,0,1,0,0,0,0,0,1,14.0,F,Latino,Yes,No,Family Member,Yes
+289,0,0,0,0,0,1,1,0,0,1,14.0,M,White European,Yes,No,Family Member,No
+290,1,0,1,1,1,1,0,1,1,0,14.0,M,White European,Yes,No,Family Member,Yes
+291,1,1,1,1,1,1,1,0,0,0,14.0,M,Asian,Yes,No,Family Member,Yes
+292,1,0,0,1,0,0,1,0,0,1,14.0,M,Asian,Yes,No,Family Member,Yes
+293,1,1,0,0,0,0,0,0,1,1,14.0,M,White European,Yes,No,Family Member,Yes
+294,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Family Member,No
+295,0,1,0,0,0,0,0,0,0,1,14.0,M,Middle Eastern,Yes,No,Family Member,No
+296,0,0,0,1,0,0,0,0,1,1,14.0,M,Asian,Yes,No,Family Member,No
+297,1,0,1,1,1,0,1,0,1,1,14.0,F,Middle Eastern,Yes,No,Family Member,Yes
+298,1,1,1,1,1,1,1,1,1,0,14.0,M,South Asian,Yes,Yes,Family Member,Yes
+299,0,1,1,1,1,1,1,1,1,1,14.0,M,Latino,Yes,No,Family Member,Yes
+300,0,1,0,0,1,1,0,0,1,0,14.0,M,White European,Yes,Yes,Family Member,Yes
+301,0,0,0,0,0,0,1,0,0,1,14.0,M,South Asian,Yes,No,Family Member,No
+302,1,1,1,1,1,1,1,1,1,0,14.0,M,Middle Eastern,Yes,No,Family Member,Yes
+303,1,0,0,0,0,1,1,1,1,0,14.0,F,White European,Yes,No,Family Member,Yes
+304,0,0,0,0,1,0,0,1,0,1,15.0,M,South Asian,Yes,No,Family Member,No
+305,0,0,0,0,0,1,0,0,0,1,14.0,M,South Asian,Yes,Yes,Health Care Professional,No
+306,1,0,0,1,0,1,1,1,0,0,14.0,M,Others,Yes,No,Family Member,Yes
+307,1,1,0,1,0,1,1,1,0,0,14.0,F,Asian,Yes,No,Family Member,Yes
+308,0,0,1,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Family Member,No
+309,1,1,0,0,0,0,1,0,1,0,14.0,M,Asian,Yes,Yes,Family Member,Yes
+310,0,0,0,0,1,1,1,0,1,0,14.0,M,Asian,Yes,Yes,Family Member,Yes
+311,0,0,0,1,0,0,1,0,0,0,14.0,M,White European,Yes,No,Family Member,No
+312,1,1,1,1,1,1,1,1,1,1,14.0,M,Asian,Yes,Yes,Family Member,Yes
+313,1,1,1,1,1,1,1,1,1,1,14.0,M,Asian,Yes,Yes,Family Member,Yes
+314,1,1,1,1,1,1,1,1,1,1,14.0,M,Middle Eastern,Yes,No,Health Care Professional,Yes
+315,0,1,0,1,1,1,1,1,1,0,14.0,F,Middle Eastern,Yes,No,Family Member,Yes
+316,1,1,0,0,1,1,1,0,0,0,14.0,F,White European,Yes,No,Family Member,Yes
+317,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+318,0,0,0,0,0,0,0,0,0,0,15.0,M,White European,Yes,No,Family Member,Yes
+319,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Family Member,No
+320,0,0,0,0,0,0,0,0,0,0,15.0,M,Asian,Yes,Yes,Family Member,Yes
+321,0,0,0,0,0,0,0,0,0,0,15.0,M,Middle Eastern,Yes,No,Family Member,No
+322,0,0,0,0,0,0,0,0,0,0,15.0,F,Asian,Yes,No,Family Member,No
+323,0,0,0,0,0,0,0,0,0,0,15.0,M,Asian,Yes,Yes,Family Member,Yes
+324,0,0,0,0,0,0,0,0,0,0,15.0,M,Middle Eastern,Yes,No,Family Member,No
+325,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,Yes,No,Family Member,No
+326,0,0,0,0,0,0,0,0,0,0,15.0,F,Asian,Yes,No,Family Member,No
+327,0,0,0,0,0,0,0,0,0,0,15.0,M,Asian,Yes,Yes,Family Member,Yes
+328,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Family Member,Yes
+329,0,0,0,0,0,0,0,0,0,0,15.0,M,Middle Eastern,Yes,No,Family Member,No
+330,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Family Member,No
+331,0,0,0,0,0,0,0,0,0,0,13.0,M,Asian,Yes,Yes,Health Care Professional,Yes
+332,0,0,0,0,0,0,0,0,0,0,12.0,M,White European,Yes,No,Family Member,Yes
+333,0,0,0,0,0,0,0,0,0,0,15.0,M,Middle Eastern,Yes,No,Family Member,No
+334,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,Yes,No,Family Member,No
+335,0,0,0,0,0,0,0,0,0,0,13.0,M,White European,Yes,No,Family Member,Yes
+336,0,0,0,0,0,0,0,0,0,0,15.0,M,Middle Eastern,Yes,No,Family Member,No
+337,0,0,0,0,0,0,0,0,0,1,11.0,F,South Asian,Yes,No,Family Member,No
+338,0,0,0,0,0,0,0,0,0,0,11.0,M,Asian,Yes,Yes,Family Member,Yes
+339,0,0,0,0,0,0,0,0,0,0,15.0,M,Middle Eastern,Yes,No,Family Member,No
+340,0,0,0,0,0,0,0,0,0,0,15.0,M,Middle Eastern,Yes,No,Family Member,No
+341,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Family Member,No
+342,0,0,0,0,0,0,0,0,0,0,12.0,M,Asian,Yes,Yes,Family Member,Yes
+343,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Family Member,Yes
+344,0,0,0,0,0,0,0,0,0,0,15.0,M,Middle Eastern,Yes,No,Family Member,No
+345,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Family Member,Yes
+346,0,0,0,0,0,0,0,0,0,0,15.0,M,Middle Eastern,Yes,No,Family Member,No
+347,0,0,0,0,0,0,0,0,0,0,15.0,M,Middle Eastern,Yes,No,Family Member,No
+348,0,0,0,0,0,0,0,0,0,0,15.0,F,Asian,Yes,No,Family Member,No
+349,0,0,0,0,0,0,0,0,0,0,15.0,M,Middle Eastern,Yes,No,Family Member,No
+350,0,0,0,0,0,0,0,0,0,1,15.0,F,South Asian,Yes,No,Family Member,No
+351,0,0,0,0,0,0,0,0,0,0,15.0,M,Middle Eastern,Yes,No,Family Member,No
+352,0,0,0,0,0,0,0,0,0,0,15.0,M,Middle Eastern,Yes,No,Family Member,No
+353,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Family Member,Yes
+354,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Family Member,No
+355,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,Yes,No,Family Member,No
+356,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Family Member,No
+357,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,Yes,Yes,Health Care Professional,Yes
+358,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Family Member,No
+359,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,Yes,Yes,Health Care Professional,Yes
+360,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Family Member,Yes
+361,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Family Member,No
+362,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,Yes,No,Family Member,No
+363,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Family Member,No
+364,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Family Member,No
+365,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,Yes,Yes,Health Care Professional,Yes
+366,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Family Member,Yes
+367,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Family Member,No
+368,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,Yes,No,Family Member,No
+369,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Family Member,No
+370,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Family Member,Yes
+371,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Family Member,No
+372,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,Yes,No,Family Member,No
+373,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Family Member,No
+374,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Family Member,Yes
+375,0,0,0,0,0,0,0,0,0,1,15.0,F,South Asian,Yes,No,Family Member,No
+376,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Family Member,Yes
+377,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,Yes,No,Family Member,No
+378,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Family Member,No
+379,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,Yes,Yes,Health Care Professional,Yes
+380,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Family Member,Yes
+381,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Family Member,No
+382,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Family Member,No
+383,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Family Member,No
+384,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,Yes,No,Family Member,No
+385,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Family Member,No
+386,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,Yes,Yes,Health Care Professional,Yes
+387,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Family Member,Yes
+388,0,0,0,0,0,0,0,0,0,0,15.0,M,Middle Eastern,Yes,No,Family Member,No
+389,0,0,0,0,0,0,0,0,0,0,15.0,M,Middle Eastern,Yes,No,Family Member,No
+390,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,Yes,No,Family Member,No
+391,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Family Member,Yes
+392,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,Yes,No,Family Member,No
+393,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Family Member,No
+394,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,Yes,Yes,Family Member,Yes
+395,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Family Member,Yes
+396,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Family Member,No
+397,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Family Member,No
+398,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Family Member,No
+399,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Family Member,No
+400,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,Yes,Yes,Family Member,Yes
+401,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Family Member,Yes
+402,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Family Member,No
+403,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,Yes,No,Family Member,No
+404,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,Yes,No,Family Member,No
+405,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,Yes,Yes,Family Member,Yes
+406,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Family Member,No
+407,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,Yes,No,Family Member,No
+408,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Family Member,No
+409,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Family Member,Yes
+410,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Family Member,No
+411,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Family Member,No
+412,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Family Member,No
+413,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Family Member,No
+414,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,Yes,No,Family Member,No
+415,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Family Member,No
+416,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,Yes,Yes,Family Member,Yes
+417,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Family Member,Yes
+418,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Health Care Professional,No
+419,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Health Care Professional,No
+420,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Health Care Professional,Yes
+421,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Health Care Professional,No
+422,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,Yes,No,Health Care Professional,No
+423,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Health Care Professional,No
+424,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Health Care Professional,Yes
+425,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Health Care Professional,Yes
+426,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,Yes,No,Health Care Professional,No
+427,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Health Care Professional,Yes
+428,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Health Care Professional,No
+429,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,Yes,No,Health Care Professional,No
+430,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Health Care Professional,No
+431,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,Yes,Yes,School and NGO,Yes
+432,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Health Care Professional,No
+433,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Health Care Professional,Yes
+434,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,Yes,No,Health Care Professional,No
+435,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Health Care Professional,No
+436,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,Yes,Yes,School and NGO,Yes
+437,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Health Care Professional,Yes
+438,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Health Care Professional,No
+439,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,Yes,Yes,School and NGO,Yes
+440,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Health Care Professional,No
+441,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Health Care Professional,No
+442,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,Yes,Yes,School and NGO,Yes
+443,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Health Care Professional,Yes
+444,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Health Care Professional,No
+445,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,Yes,No,Health Care Professional,No
+446,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Health Care Professional,No
+447,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Health Care Professional,No
+448,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Health Care Professional,Yes
+449,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Health Care Professional,No
+450,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,Yes,No,Health Care Professional,No
+451,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Health Care Professional,No
+452,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Health Care Professional,Yes
+453,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,Yes,Yes,School and NGO,Yes
+454,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Health Care Professional,No
+455,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Health Care Professional,No
+456,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Health Care Professional,Yes
+457,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Health Care Professional,No
+458,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,Yes,No,Health Care Professional,No
+459,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Health Care Professional,No
+460,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Health Care Professional,Yes
+461,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,Yes,No,Health Care Professional,No
+462,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Health Care Professional,Yes
+463,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Health Care Professional,No
+464,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,Yes,No,Health Care Professional,No
+465,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Health Care Professional,No
+466,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,Yes,Yes,School and NGO,Yes
+467,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Health Care Professional,Yes
+468,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,Yes,No,Health Care Professional,No
+469,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,Yes,Yes,School and NGO,Yes
+470,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Health Care Professional,Yes
+471,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Health Care Professional,No
+472,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,Yes,No,Health Care Professional,No
+473,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Health Care Professional,No
+474,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,Yes,No,Health Care Professional,No
+475,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,Yes,Yes,School and NGO,Yes
+476,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Health Care Professional,No
+477,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,Yes,No,Health Care Professional,No
+478,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Health Care Professional,No
+479,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,Yes,Yes,School and NGO,Yes
+480,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Health Care Professional,Yes
+481,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Health Care Professional,No
+482,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Health Care Professional,No
+483,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Health Care Professional,No
+484,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,Yes,Yes,School and NGO,Yes
+485,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Health Care Professional,Yes
+486,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Health Care Professional,No
+487,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,Yes,No,Health Care Professional,No
+488,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Health Care Professional,Yes
+489,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,Yes,No,Health Care Professional,No
+490,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,Yes,Yes,School and NGO,Yes
+491,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Health Care Professional,Yes
+492,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Health Care Professional,No
+493,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,Yes,No,Health Care Professional,No
+494,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Health Care Professional,No
+495,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Health Care Professional,No
+496,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Health Care Professional,Yes
+497,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,Yes,No,Health Care Professional,No
+498,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Health Care Professional,No
+499,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,Yes,Yes,School and NGO,Yes
+500,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Health Care Professional,Yes
+501,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Health Care Professional,No
+502,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,Yes,Yes,School and NGO,Yes
+503,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Health Care Professional,No
+504,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Health Care Professional,No
+505,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Health Care Professional,Yes
+506,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Health Care Professional,No
+507,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,Yes,No,Health Care Professional,No
+508,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Health Care Professional,No
+509,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Health Care Professional,No
+510,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Health Care Professional,Yes
+511,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,Yes,No,Health Care Professional,No
+512,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Health Care Professional,No
+513,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Health Care Professional,Yes
+514,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Health Care Professional,No
+515,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,Yes,No,Health Care Professional,No
+516,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,Yes,Yes,School and NGO,Yes
+517,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Health Care Professional,No
+518,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Health Care Professional,No
+519,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Health Care Professional,Yes
+520,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Health Care Professional,No
+521,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,Yes,No,Health Care Professional,No
+522,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,Yes,No,Health Care Professional,No
+523,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,Yes,No,Health Care Professional,Yes
+524,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,Yes,No,Health Care Professional,No
+525,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,No,No,Health Care Professional,No
+526,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,No,Yes,Health Care Professional,Yes
+527,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+528,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+529,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,No,No,Health Care Professional,No
+530,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,No,No,Health Care Professional,No
+531,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,No,Yes,Health Care Professional,Yes
+532,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+533,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+534,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,No,No,Health Care Professional,No
+535,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,No,No,Health Care Professional,No
+536,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+537,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,No,No,Health Care Professional,No
+538,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+539,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,No,No,Health Care Professional,No
+540,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+541,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+542,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,No,No,Health Care Professional,No
+543,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,No,No,Health Care Professional,No
+544,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,No,Yes,Health Care Professional,Yes
+545,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+546,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,No,No,Health Care Professional,No
+547,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+548,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,No,No,Health Care Professional,No
+549,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+550,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+551,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,No,No,Health Care Professional,No
+552,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,No,No,Health Care Professional,No
+553,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,No,Yes,Health Care Professional,Yes
+554,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,No,No,Health Care Professional,No
+555,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,Yes,Yes,School and NGO,Yes
+556,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Health Care Professional,No
+557,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,No,No,Health Care Professional,No
+558,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+559,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,Yes,No,Health Care Professional,No
+560,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,No,No,Health Care Professional,No
+561,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,No,No,Health Care Professional,No
+562,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+563,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,No,No,Health Care Professional,No
+564,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+565,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,No,No,Health Care Professional,No
+566,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,No,No,Health Care Professional,No
+567,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,No,Yes,Health Care Professional,Yes
+568,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+569,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,No,No,Health Care Professional,No
+570,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+571,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,No,No,Health Care Professional,No
+572,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,No,No,Health Care Professional,No
+573,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,No,Yes,Health Care Professional,Yes
+574,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+575,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,No,No,Health Care Professional,No
+576,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+577,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,No,No,Health Care Professional,No
+578,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,No,Yes,Health Care Professional,Yes
+579,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+580,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+581,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,No,No,Health Care Professional,No
+582,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+583,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,No,No,Health Care Professional,No
+584,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,No,Yes,Health Care Professional,Yes
+585,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+586,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,No,No,Health Care Professional,No
+587,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+588,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+589,0,0,0,0,0,0,0,0,0,1,14.0,F,South Asian,No,No,Health Care Professional,No
+590,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+591,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,No,No,Health Care Professional,No
+592,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+593,0,0,0,0,0,0,0,0,0,0,14.0,F,South Asian,No,No,Health Care Professional,No
+594,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,No,Yes,Health Care Professional,Yes
+595,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+596,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,No,No,Health Care Professional,No
+597,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+598,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+599,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,No,Yes,Health Care Professional,Yes
+600,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+601,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+602,0,0,0,0,0,0,0,0,0,0,14.0,F,South Asian,No,No,Health Care Professional,No
+603,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+604,0,0,0,0,0,0,0,0,0,0,14.0,F,South Asian,No,No,Health Care Professional,No
+605,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+606,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+607,0,0,0,0,0,0,0,0,0,0,14.0,F,South Asian,No,No,Health Care Professional,No
+608,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,No,Yes,Health Care Professional,Yes
+609,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+610,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,No,No,Health Care Professional,No
+611,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+612,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,No,Yes,Health Care Professional,Yes
+613,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+614,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,No,No,Health Care Professional,No
+615,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+616,0,0,0,0,0,0,0,0,0,0,14.0,F,South Asian,No,No,Health Care Professional,No
+617,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+618,0,0,0,0,0,0,0,0,0,0,14.0,F,South Asian,No,No,Health Care Professional,No
+619,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+620,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+621,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,No,Yes,Health Care Professional,Yes
+622,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+623,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,No,No,Health Care Professional,No
+624,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+625,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+626,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,No,Yes,Health Care Professional,Yes
+627,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+628,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,No,No,Health Care Professional,No
+629,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+630,0,0,0,0,0,0,0,0,0,0,14.0,F,South Asian,No,No,Health Care Professional,No
+631,0,0,0,0,0,0,0,0,0,0,14.0,F,South Asian,No,No,Health Care Professional,No
+632,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+633,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+634,0,0,0,0,0,0,0,0,0,0,14.0,F,South Asian,No,No,Health Care Professional,No
+635,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,No,Yes,Health Care Professional,Yes
+636,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+637,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,No,No,Health Care Professional,No
+638,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+639,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+640,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,No,Yes,Health Care Professional,Yes
+641,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,No,No,Health Care Professional,No
+642,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+643,0,0,0,0,0,0,0,0,0,0,14.0,F,South Asian,No,No,Health Care Professional,No
+644,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+645,0,0,0,0,0,0,0,0,0,0,14.0,F,South Asian,No,No,Health Care Professional,No
+646,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+647,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+648,0,0,0,0,0,0,0,0,0,0,14.0,F,South Asian,No,No,Health Care Professional,No
+649,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,No,Yes,Health Care Professional,Yes
+650,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+651,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+652,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+653,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,No,Yes,Health Care Professional,Yes
+654,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+655,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,No,No,Health Care Professional,No
+656,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+657,0,0,0,0,0,0,0,0,0,0,14.0,F,South Asian,No,No,Health Care Professional,No
+658,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+659,0,0,0,0,0,0,0,0,0,0,14.0,F,South Asian,No,No,Health Care Professional,No
+660,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+661,0,0,0,0,0,0,0,0,0,0,14.0,F,South Asian,No,No,Health Care Professional,No
+662,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,No,Yes,Health Care Professional,Yes
+663,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+664,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,No,No,Health Care Professional,No
+665,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+666,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+667,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,No,Yes,Health Care Professional,Yes
+668,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+669,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,No,No,Health Care Professional,No
+670,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+671,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+672,0,0,0,0,0,0,0,0,0,0,14.0,F,South Asian,No,No,Health Care Professional,No
+673,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+674,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+675,0,0,0,0,0,0,0,0,0,0,14.0,F,South Asian,No,No,Health Care Professional,No
+676,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,No,Yes,Health Care Professional,Yes
+677,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+678,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,No,No,Health Care Professional,No
+679,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+680,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+681,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+682,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,No,No,Health Care Professional,No
+683,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+684,0,0,0,0,0,0,0,0,0,0,14.0,F,South Asian,No,No,Health Care Professional,No
+685,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+686,0,0,0,0,0,0,0,0,0,0,14.0,F,South Asian,No,No,Health Care Professional,No
+687,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+688,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+689,0,0,0,0,0,0,0,0,0,0,14.0,F,South Asian,No,No,Health Care Professional,No
+690,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,No,Yes,Health Care Professional,Yes
+691,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,No,No,Health Care Professional,No
+692,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+693,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+694,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,No,Yes,Health Care Professional,Yes
+695,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+696,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,No,No,Health Care Professional,No
+697,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+698,0,0,0,0,0,0,0,0,0,0,14.0,F,South Asian,No,No,Health Care Professional,No
+699,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+700,0,0,0,0,0,0,0,0,0,0,14.0,F,South Asian,No,No,Health Care Professional,No
+701,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+702,0,0,0,0,0,0,0,0,0,0,14.0,F,South Asian,No,No,Health Care Professional,No
+703,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,No,Yes,Health Care Professional,Yes
+704,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+705,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,No,No,Health Care Professional,No
+706,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+707,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+708,0,0,0,0,0,0,0,0,0,0,14.0,M,Asian,No,Yes,Health Care Professional,Yes
+709,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+710,0,0,0,0,0,0,0,0,0,0,14.0,F,Asian,No,No,Health Care Professional,No
+711,0,0,0,0,0,0,0,0,0,0,14.0,F,South Asian,No,No,Health Care Professional,No
+712,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+713,0,0,0,0,0,0,0,0,0,0,14.0,F,South Asian,No,No,Health Care Professional,No
+714,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
+715,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+716,0,0,0,0,0,0,0,0,0,0,14.0,F,South Asian,No,No,Health Care Professional,No
+717,0,0,0,0,0,0,0,0,0,0,14.0,M,White European,No,No,Health Care Professional,Yes
+718,0,0,0,0,0,0,0,0,0,0,14.0,F,South Asian,No,No,Health Care Professional,No
+719,0,0,0,0,0,0,0,0,0,0,14.0,M,Middle Eastern,No,No,Health Care Professional,No
