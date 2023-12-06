@@ -29,4 +29,4 @@ Splash banner
 Photo by Nathan Anderson on Unsplash
 
 Splash icon
-Icons made by Smashicons from www.flaticon.com.# machine-learning-autism
+Icons made by Smashicons from www.flaticon.com.
